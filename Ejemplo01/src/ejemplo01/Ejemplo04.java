@@ -20,3 +20,5 @@ public class Ejemplo04 {
         System.out.print(nombreEstudiante);
     }
 }
+// El system.out.print sirve para visualizar la informacion insertada en una
+//sola linea sin separar los textos
