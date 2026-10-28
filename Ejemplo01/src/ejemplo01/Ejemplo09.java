@@ -13,7 +13,8 @@ public class Ejemplo09 {
         String titulo = "Introduccion a java";
         String autor = "L. Ramirez";
         int anio = 2022;      
-        System.out.printf("libro: %s\n\nautor: %s\n\nanio: %s\n\n",(titulo, autor, anio, disponible);
+        System.out.printf("Libro:%s%nanio: %s\n\nnacimiento: %s\n", nombreEstudiante,
+                apellidoEstudiante, nacimiento));
     }
            
            
