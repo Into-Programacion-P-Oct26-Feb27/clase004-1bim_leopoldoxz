@@ -12,9 +12,12 @@ public class Ejemplo09 {
     public static void main(String[] args) {
         String titulo = "Introduccion a java";
         String autor = "L. Ramirez";
-        int anio = 2022;      
-        System.out.printf("Libro:%s%nanio: %s\n\nnacimiento: %s\n", nombreEstudiante,
-                apellidoEstudiante, nacimiento));
+        int año = 2022;      
+        boolean disponible = true;
+        
+        System.out.printf("Libro: %s%nAutor: %s%nAño: %d%nDisponible: %b%n " , 
+                titulo,
+                autor,año,disponible);
     }
            
            
